@@ -6,7 +6,8 @@ body{
 
 header {
     border-bottom: solid 2px white;
-    
+    padding-left: 20px;
+    padding-bottom: 20px;    
     font-size: 32px;
     color:azure;
 }
