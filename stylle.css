@@ -6,5 +6,6 @@ body{
 
 header {
     border-bottom: solid 2px dodgerblue;
-    margin: 20px;
+    padding: 20px;
+    font-size: 32px;
 }
