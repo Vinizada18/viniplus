@@ -3,6 +3,7 @@ body{
    
     color: white;
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
 }
 
 header {
@@ -17,4 +18,3 @@ header {
 section {
     background:rgb(34, 31, 31);
 }
-linearGradient
