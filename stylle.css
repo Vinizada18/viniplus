@@ -1,6 +1,5 @@
 body{
-    background: linear-gradient(45deg, black, transparent);
-   
+    background: linear-gradient(45deg, black, white);
     color: white;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -16,5 +15,5 @@ header {
 }
 
 section {
-    background:-moz-linear-gradient(black, tranparent);
+    background:;
 }   
