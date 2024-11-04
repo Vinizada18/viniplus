@@ -15,7 +15,7 @@ header {
 }
 
 section {
-background: red;
+background:-o-linear-gradient(black,yellow);
 } 
 h1{
     font-size: 30px;
